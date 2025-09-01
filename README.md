@@ -1,6 +1,6 @@
 #holbertonschool-simple_shell
 
-Welcome to the **holbertonschool-simple_shell** repository!!
+Welcome to the **holbertonschool-simple_shell** repository!
 This project is part of the Holberton School curiculum and focuses on building a simple UNIX command interpreter in C. 
 
 ## Description
@@ -11,7 +11,6 @@ It can read the user input, parses commands and executes in a similar way to sta
 ## Background Context
 This project will help you learn about:
 - How shells work, including process creation and management
-- The difference between functions and system calls
 - Manipulating the environment of the current process
 - Using the PATH to find programs
 - Executing programs with `execve`
