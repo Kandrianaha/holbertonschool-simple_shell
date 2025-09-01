@@ -9,12 +9,7 @@ This **simple_shell** project aims to help you understand the inner world of a U
 It can read the user input, parses commands and executes in a similar way to standard UNIX shells. The shell supports basic built-in commands and PATH commands.
 
 ## Background Context
-
-> “The Gates of Shell”, by Spencer Cheng, featuring Julien Barbier 
 This project will help you learn about:
-- The history and design of the original UNIX operating system
-- The first UNIX shell and its authors (Ken Thompson)
-- The B programming language (predecessor to C)
 - How shells work, including process creation and management
 - The difference between functions and system calls
 - Manipulating the environment of the current process
