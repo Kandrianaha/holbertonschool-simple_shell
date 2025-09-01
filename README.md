@@ -47,10 +47,6 @@ To use or run the shell: 
    ```bash
    echo "/bin/ls" | ./hsh
    ``` 
-5. **Print the parent process ID:**
-   ```bash
-   chmod +x "0. getppid"
-	./0. getppid
 
 ## Requirements 
 - Allowed editors: vi, vim, emacs
